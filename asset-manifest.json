@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/veterenari/static/css/main.eccd1b5d.css",
+    "main.js": "/veterenari/static/js/main.a42d1e49.js",
+    "static/media/premium-icon-paw-2475265.png": "/veterenari/static/media/premium-icon-paw-2475265.58fe6697663a62813c1a.png",
+    "static/media/dog (1).png": "/veterenari/static/media/dog (1).12f53ae3051d8ec27b70.png",
+    "static/media/paw-free-icon-font.png": "/veterenari/static/media/paw-free-icon-font.e05610f027b8c3971bd6.png",
+    "static/media/man.png": "/veterenari/static/media/man.ab45eb1d42b1faaf3d12.png",
+    "static/media/dog.png": "/veterenari/static/media/dog.f66039df3af3fb64bd6f.png",
+    "static/media/dog (4).png": "/veterenari/static/media/dog (4).ada44546aa2cf72d0ba5.png",
+    "static/media/usd-circle-free-icon-font.png": "/veterenari/static/media/usd-circle-free-icon-font.4813e7943551fb6046de.png",
+    "static/media/cat.png": "/veterenari/static/media/cat.9701d199a89147763827.png",
+    "static/media/footprint.png": "/veterenari/static/media/footprint.64f3cbd09cff1a06d1e2.png",
+    "static/media/dog (3).png": "/veterenari/static/media/dog (3).860cdcd66e62b24a0fbb.png",
+    "static/media/cat (1).png": "/veterenari/static/media/cat (1).fc546a7e5cae0aaafd07.png",
+    "static/media/bell-free-icon-font.png": "/veterenari/static/media/bell-free-icon-font.97f269161badd819e728.png",
+    "static/media/search-free-icon-font.png": "/veterenari/static/media/search-free-icon-font.96abbb89b901cbc0bd03.png",
+    "static/media/dollar (2).png": "/veterenari/static/media/dollar (2).171b6103ef6545e9fd22.png",
+    "static/media/envelope-free-icon-font.png": "/veterenari/static/media/envelope-free-icon-font.75b5fc5e47bcd30feb88.png",
+    "static/media/doctor-free-icon-font.png": "/veterenari/static/media/doctor-free-icon-font.149ed424ef27a80524c8.png",
+    "static/media/folders-free-icon-font.png": "/veterenari/static/media/folders-free-icon-font.7ccc8a7d1c262b7333af.png",
+    "static/media/cross-free-icon-font.png": "/veterenari/static/media/cross-free-icon-font.2d3f2c037d24a1c5ebb5.png",
+    "static/media/file-free-icon-font.png": "/veterenari/static/media/file-free-icon-font.bf9ae82b183668ced082.png",
+    "static/media/tag.png": "/veterenari/static/media/tag.e398e3f3f283acfbc1af.png",
+    "static/media/folder (2).png": "/veterenari/static/media/folder (2).4480231a0a5ca7bedbd2.png",
+    "static/media/logo.svg": "/veterenari/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/veterenari/index.html",
+    "main.eccd1b5d.css.map": "/veterenari/static/css/main.eccd1b5d.css.map",
+    "main.a42d1e49.js.map": "/veterenari/static/js/main.a42d1e49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eccd1b5d.css",
+    "static/js/main.a42d1e49.js"
+  ]
+}
