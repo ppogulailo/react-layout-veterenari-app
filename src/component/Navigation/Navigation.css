@@ -1,0 +1,66 @@
+.bord{
+
+
+}
+.height{
+    height: 74px;   border-bottom: 1px solid rgba(189, 189, 189, 0.2);
+
+}
+.header-img{
+    max-width: 50px;
+}
+.height-block{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+
+}
+.buttons{
+    padding: 20px 30px;
+}
+.unit{
+    width: 20px;
+    color: #989898;
+}
+.button{
+    padding: 10px;
+
+cursor: pointer;
+    margin-bottom: 5px;
+}
+.button:hover{
+    background-color: #c6e6fd;
+    border-radius: 10px;
+    max-width: 200px    ;
+}
+.button-active{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    background-color: #c6e6fd;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    max-width: 200px;
+}
+.ml-5{
+    margin-left: 10px;
+    color: #989898;
+}
+.logo{
+    margin-left: 10px;
+}
+.active{
+    background-color: #c6e6fd;
+}
+a{
+    text-decoration: none;
+}
+@media (max-width: 768px) {
+    .logo{
+        display: none;
+    }
+
+}
