@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/veterenari/static/css/main.eccd1b5d.css",
-    "main.js": "/veterenari/static/js/main.0004ce3b.js",
+    "main.js": "/veterenari/static/js/main.89eea61e.js",
     "static/media/premium-icon-paw-2475265.png": "/veterenari/static/media/premium-icon-paw-2475265.58fe6697663a62813c1a.png",
     "static/media/dog (1).png": "/veterenari/static/media/dog (1).12f53ae3051d8ec27b70.png",
     "static/media/paw-free-icon-font.png": "/veterenari/static/media/paw-free-icon-font.e05610f027b8c3971bd6.png",
@@ -26,10 +26,10 @@
     "static/media/logo.svg": "/veterenari/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/veterenari/index.html",
     "main.eccd1b5d.css.map": "/veterenari/static/css/main.eccd1b5d.css.map",
-    "main.0004ce3b.js.map": "/veterenari/static/js/main.0004ce3b.js.map"
+    "main.89eea61e.js.map": "/veterenari/static/js/main.89eea61e.js.map"
   },
   "entrypoints": [
     "static/css/main.eccd1b5d.css",
-    "static/js/main.0004ce3b.js"
+    "static/js/main.89eea61e.js"
   ]
 }
